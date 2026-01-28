@@ -3,6 +3,7 @@ jupyterlab
 matplotlib
 mkdocs
 notebook
+gdown
 numpy
 pandas
 pip
